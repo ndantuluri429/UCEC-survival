@@ -5,8 +5,13 @@ This study develops a machine learning framework to predict survival in Uterine 
 
 ## Repository Contents
 ### /UCEC-how-to-download-data.pdf
+Instructions on how to load data from the GDC portal.
+
 ### /clinical_baseline-2.py
+Exploration, feature selection, and analysis of clincial variables. 
+
 ### /p_test_and_save_dfs_multiple_genes.py
+Exploration, feature selection, and analysis of CNV and DNA Methylation variables. 
 
 
 ## Acknowledgements
