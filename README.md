@@ -10,4 +10,4 @@ This study develops a machine learning framework to predict survival in Uterine 
 
 
 ## Acknowledgements
-Developed by Ananya Prasad, Surabhi Ghatti, Neha Dantuluri at [Harvard Medical School's Department of Biomedical Informatics](https://dbmi.hms.harvard.edu). Mentored by Grey Kuling, Courtney Shearer, and Marinka Zitnik for [BMI 702: Biomedical AI](https://zitniklab.hms.harvard.edu/BMI702/) at Harvard Medical School. 
+Developed by Ananya Prasad, Surabhi Ghatti, Neha Dantuluri at [Harvard Medical School's Department of Biomedical Informatics](https://dbmi.hms.harvard.edu). Mentored by Grey Kuling, Courtney Shearer, and Marinka Zitnik for [BMI 702: Biomedical Artificial Intelligence](https://zitniklab.hms.harvard.edu/BMI702/). 
